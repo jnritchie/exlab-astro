@@ -1,14 +1,14 @@
-# A Blank PhoneGap App
+# A Basic PhoneGap App for EX Media
 
 ## Usage
 
-### PhoneGap CLI
+### CLI
 
-    $ phonegap create my-app --template blank
+    $ coming soon
 
-### Desktop
+### Testing
 
-In your browser, open the file:
+To access via Heroku, open the file:
 
-    /www/index.html
+    /remote-address
 
